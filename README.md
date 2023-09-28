@@ -4,6 +4,9 @@
 - EloquentORM para fazer querys que irão trazer os dados do banco de dados.
 - Banco de dados MySQL. O banco de dados possui uma tabela de usuários, produtos e cervejas.
 - Utilizado migrations para a criação das tabelas
+- Para as rotas de Login e Cadastro é criado tokens para a autenticação do usuário.
+- Para validação de dados recebidos pela API foi usado Requests
+- O CRUD de produtos não tem interface, apenas o login e cadastro
 
 ________________________
 
